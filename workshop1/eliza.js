@@ -30,6 +30,7 @@
 var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
+    "Fuck you, you son of a cammel."
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -140,6 +141,7 @@ var rules = {
     "What if you were ~y?",
     "Do you think you were ~y?",
     "What would it mean if you were ~y?",
+    "Fuck You!!!!!!! ~y?",
   ],
   "~*x I am ~*y": [
     "In what way are you ~y?",
